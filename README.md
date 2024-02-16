@@ -3,6 +3,8 @@ solid-js
 
 Based on "SolidJS" at https://www.solidjs.com/
 
+![SolidJS_Performance](https://github.com/vanHeemstraSystems/solid-js/assets/1499433/9331efc7-a861-4e2d-bf8d-1702263e4710)
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
