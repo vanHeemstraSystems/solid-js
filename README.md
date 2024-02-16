@@ -1,5 +1,5 @@
 solid-js
-# SolidJS
+# SolidJS - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 Based on "SolidJS" at https://www.solidjs.com/
 
