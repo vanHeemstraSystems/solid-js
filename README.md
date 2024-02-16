@@ -5,6 +5,8 @@ Based on "SolidJS" at https://www.solidjs.com/
 
 Based on "SolidJS on GitHub" at https://github.com/solidjs/solid
 
+Based on "Modern Frontend: The World Beyond Components w/ Ryan Carniato" at https://www.youtube.com/watch?v=nBSlEyEbV4k
+
 ![SolidJS_Performance](https://github.com/vanHeemstraSystems/solid-js/assets/1499433/9331efc7-a861-4e2d-bf8d-1702263e4710)
 
 ## 100 - Introduction
