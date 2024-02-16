@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+solid-js
+# SolidJS
 
-Based on "ABC" at https://www.abc.com/
+Based on "SolidJS" at https://www.solidjs.com/
 
 ## 100 - Introduction
 
